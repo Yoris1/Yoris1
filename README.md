@@ -1,4 +1,28 @@
-### Hi there 👋
+### Hi there, I'm Yoris 👋 
+⌨️  I've been programming for over 4 years\
+📫 You can reach me right here on github, or by the email `contact_yoris.ue5ee`at`aleeas.com`\
+🌱 I’m currently learning ML\
+👯 I’m looking to collaborate on FOSS projects
+
+### Skills
+- 🤖 Intermediate arduino&esp8266 home automation / robot building knowledge. 
+- 💽 Linux sysadmin
+- 🌐 Basic networking
+- 🕹️ Game Dev with unity
+- 🎮 Game Dev without engines
+- 🕸️ Server-side programming
+- ✨ Bot development
+### I know how to program in
+* C
+* Node.js (javascript & typescript)
+* Java
+* Python
+* C# ( Except I don't understand the NuGet package manager)
+* GLSL
+
+### Stats 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoris1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Yoris1/Yoris1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
