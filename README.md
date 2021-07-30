@@ -11,7 +11,9 @@
 - 🕹️ Game Dev with unity
 - 🎮 Game Dev without engines
 - 🕸️ Server-side programming
+- 🔋 Shell scripting
 - ✨ Bot development
+
 ### I know how to program in
 * C
 * Node.js (javascript & typescript)
@@ -19,6 +21,7 @@
 * Python
 * C# ( Except I don't understand the NuGet package manager)
 * GLSL
+* GNU Bash
 
 ### Stats 
 
