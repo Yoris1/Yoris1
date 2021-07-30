@@ -13,6 +13,7 @@
 - 🕸️ Server-side programming
 - 🔋 Shell scripting
 - ✨ Bot development
+- 🔘 Ability to immediately tell a mechanical switch brand name and make
 
 ### I know how to program in
 * C
