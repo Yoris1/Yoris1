@@ -2,12 +2,12 @@
 ⌨️  I've been programming for over 4 years\
 📫 You can reach me right here on github, or by the email `contact_yoris.ue5ee@aleeas.com`\
 🌱 I’m currently learning ML\
-👯 I’m looking to collaborate on FOSS projects
+🤝 I’m looking to collaborate on FOSS projects
 
 ### Skills
 - 🤖 Intermediate arduino&esp8266 home automation / robot building knowledge. 
 - 💽 Linux sysadmin
-- 🌐 Basic networking
+- 🌐 Basic network engineering
 - 🕹️ Game Dev with unity
 - 🎮 Game Dev without engines
 - 🕸️ Server-side programming
