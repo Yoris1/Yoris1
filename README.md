@@ -1,7 +1,7 @@
 ### Hi there, I'm Yoris 👋 
 ⌨️  I've been programming for over 4 years\
 📫 You can reach me right here on github, or by the email `contact_yoris.ue5ee@aleeas.com`\
-🌱 I’m currently learning ML\
+🌱 I’m currently learning CAD and ECAD through freeCAD and kiCAD \
 🤝 I’m looking to collaborate on FOSS projects
 
 ### Skills
