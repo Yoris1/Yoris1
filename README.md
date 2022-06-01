@@ -1,28 +1,28 @@
 ### Hi there, I'm Yoris 👋 
-⌨️  I've been programming for over 4 years\
-📫 You can reach me right here on github, or by the email `contact_yoris.ue5ee@aleeas.com`\
-🌱 I’m currently learning CAD and ECAD through freeCAD and kiCAD \
-🤝 I’m looking to collaborate on FOSS projects
+⌨️ I've been programming for over 4 years\
+📫 You can reach me here on github, or by the email `joris.vaisvila@gmail.com`\
+🌱 I’m currently learning game engine development \
+🤝 I’m looking for work opportunities
 
 ### Skills
-- 🤖 Intermediate arduino&esp8266 home automation / robot building knowledge. 
 - 💽 Linux sysadmin
 - 🌐 Basic network engineering
 - 🕹️ Game Dev with unity
-- 🎮 Game Dev without engines
+- 🎮 Game engine development
 - 🕸️ Server-side programming
 - 🔋 Shell scripting
 - ✨ Bot development
-- 🔘 Ability to immediately tell a mechanical switch brand name and make
-
+- 🤖 Arduino&ESP8266 home automation
+ 
 ### I know how to program in
-* C
-* Node.js (javascript & typescript)
-* Java
+* C++
+* JavaScript
+* TypeScript
 * Python
-* C# ( Except I don't understand the NuGet package manager)
+* Java
+* C#
+* C
 * GLSL
-* GNU Bash
 
 ### Stats 
 
