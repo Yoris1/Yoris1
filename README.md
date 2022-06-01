@@ -18,6 +18,7 @@
 * C++
 * JavaScript
 * TypeScript
+* PHP
 * Python
 * Java
 * C#
