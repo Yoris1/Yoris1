@@ -1,7 +1,7 @@
-### My name is Yoris
+### My name is Joris 👋
 ⌨️ I've been programming for over 4 years\
 📫 You can reach me here on github, or by the email `joris.vaisvila@gmail.com`\
-🌱 I’m currently learning lua \
+🌱 I’m currently learning lua
 
 ### Skills
 - 💽 Linux sysadmin
