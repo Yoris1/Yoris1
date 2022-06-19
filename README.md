@@ -1,8 +1,7 @@
-### Hi there, I'm Yoris 👋 
+### My name is Yoris
 ⌨️ I've been programming for over 4 years\
 📫 You can reach me here on github, or by the email `joris.vaisvila@gmail.com`\
-🌱 I’m currently learning game engine development \
-🤝 I’m looking for work opportunities
+🌱 I’m currently learning lua \
 
 ### Skills
 - 💽 Linux sysadmin
