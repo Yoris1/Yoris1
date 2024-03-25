@@ -1,7 +1,7 @@
 ### My name is Joris 👋
-⌨️ I've been programming for over 4 years\
+⌨️ I've been programming for over 6 years\
 📫 You can reach me here on github, or by the email `joris.vaisvila@gmail.com`\
-🌱 I’m currently learning lua
+🌱 I’m currently learning GO
 
 ### Skills
 - 💽 Linux sysadmin
@@ -15,6 +15,7 @@
  
 ### I know how to program in
 * C++
+* Lua
 * JavaScript
 * TypeScript
 * PHP
